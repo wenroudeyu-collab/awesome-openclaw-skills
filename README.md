@@ -801,6 +801,7 @@ If you believe a skill in this list should be flagged or has a security concern,
 - [beaverhabits](https://clawskills.sh/skills/daya0576-beaverhabits) - Track and manage your habits using the Beaver Habit Tracker API.
 - [brw-case-study-builder](https://clawskills.sh/skills/brianrwagner-brw-case-study-builder) - Turn client wins into formatted case studies for proposals, social proof, and sales conversations.
 - [canvas-design](https://clawskills.sh/skills/seanphan-canvas-design) - Create beautiful visual art in .png and .pdf documents.
+- [cc-soul](https://clawskills.sh/skills/wenroudeyu-collab-cc-soul) - Give your AI a soul — persistent memory (10K+ entries with semantic search), adaptive personality (10 auto-switching personas), emotional awareness (7-day mood arcs), dream-mode cross-domain association, and self-evolution. 50 modules, 20K+ lines TypeScript, 123 features.
 - [cedh-advisor](https://clawskills.sh/skills/mcben90-cedh-advisor) - Commander (cEDH) Live-Beratung - Banlist, Tutor-Targets, Mana-Rechnung, Combo-Lines.
 - [clawcierge](https://clawskills.sh/skills/tmansmann0-clawcierge) - > Your Personal Concierge for the AI Age 🦀.
 - [crucial-conversations-coach](https://clawskills.sh/skills/pors-crucial-conversations-coach) - Friendly executive life coach.
